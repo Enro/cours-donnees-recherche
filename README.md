@@ -4,7 +4,7 @@ Cours donné en 3e année du BUT Information numérique dans les organisations (
 
 ## Objectifs pédagogiques 
 
-Ce cours fournit une introduction aux enjeux des données de la recherche et cible les compétences ci-dessous :
+Ce cours de 4h fournit une introduction aux enjeux des données de la recherche et cible les compétences ci-dessous :
 * savoir reconnaître une donnée de recherche
 * comprendre le cycle de vie des données de recherche
 * identifier les enjeux liés au rapport singulier entre les chercheur·ses et leurs données
