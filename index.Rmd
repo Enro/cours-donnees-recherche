@@ -717,6 +717,11 @@ class: clear
 <img src="img/datalifecycle2.png" width="100%">]
 
 ---
+class: inverse, mline, center, middle
+
+# Bonus
+
+---
 class: clear
 
 .center[
