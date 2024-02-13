@@ -324,7 +324,7 @@ class: clear
 
 ???
 
-15 leviers, les étudiants se mettent par deux pour passer en revue un levier : 15 min puis restitution en 2 min par groupe
+15 leviers, les étudiants se mettent par deux pour passer en revue un levier : 10 min puis restitution en 2 min par groupe
 
 ---
 class: inverse, mline, center, middle
