@@ -293,9 +293,9 @@ class: clear
 <br />
 <br />
 
-> C'est une des choses requises par les États/politiques qu'on peut pleinement qualifier dans la plupart des cas comme un *waste of time and complete pain in the ass*.
+> C'est une des choses requises par les États/politiques qu'on peut pleinement qualifier dans la plupart des cas comme un "*waste of time and complete pain in the ass*".
 
-.footnote[Propos d'un chercheur recueilli par Candice Fillaud dans son travail de M2 Information et Médiation Scientifique et Technique (Université Claude Bernard Lyon 1)]
+.footnote[Candice Fillaud (2020). *Ouverture des données de la recherche dans la communauté en Intelligence Artificielle : exemple du Plan de gestion des données ANITI*. Mémoire de M1 Information et Médiation Scientifique et Technique, Université Claude Bernard Lyon 1 https://memsic.ccsd.cnrs.fr/mem_04135399]
 
 ---
 class: clear
